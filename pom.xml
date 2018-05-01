@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>core</groupId>
-  <artifactId>MavenTemplate</artifactId>
+  <artifactId>HW_33</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name>MavenTemplate</name>
+  <name>HW_33</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -18,7 +18,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.12</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
